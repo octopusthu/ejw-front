@@ -1,7 +1,7 @@
 {
-  "name": "ejw-front",
-  "version": "0.1.0",
-  "description": "",
+  "name": "playground-js",
+  "version": "0.0.1",
+  "description": "Playground for JavaScript.",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -9,6 +9,7 @@
   "author": "octopusthu",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
   }
 }
